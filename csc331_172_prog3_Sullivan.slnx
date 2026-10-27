@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="csc331_172_prog3_Sullivan/csc331_172_prog3_Sullivan.vcxproj" />
+</Solution>

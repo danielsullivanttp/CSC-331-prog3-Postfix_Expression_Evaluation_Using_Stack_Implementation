@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\frida\\csc331\\csc331_172_prog3_sullivan\\stack_f26.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\frida\\csc331\\csc331_172_prog3_sullivan\\mydefs_f26p3.h",
+            "c:\\users\\frida\\csc331\\csc331_172_prog3_sullivan\\mymethods_f26p3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
